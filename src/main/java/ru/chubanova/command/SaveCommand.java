@@ -1,6 +1,6 @@
 package ru.chubanova.command;
 
-import com.chubanova.ioc.IoC;
+import ru.chubanova.ioc.IoC;
 import lombok.RequiredArgsConstructor;
 
 import java.util.LinkedList;

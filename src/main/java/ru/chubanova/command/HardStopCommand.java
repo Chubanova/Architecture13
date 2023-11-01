@@ -1,7 +1,7 @@
 package ru.chubanova.command;
 
-import com.chubanova.ioc.IoC;
-import com.chubanova.state.State;
+import ru.chubanova.ioc.IoC;
+import ru.chubanova.state.State;
 
 public class HardStopCommand implements Command {
 

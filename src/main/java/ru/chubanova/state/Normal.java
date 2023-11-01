@@ -1,6 +1,6 @@
 package ru.chubanova.state;
 
-import com.chubanova.command.Command;
+import ru.chubanova.command.Command;
 
 import java.util.Queue;
 
