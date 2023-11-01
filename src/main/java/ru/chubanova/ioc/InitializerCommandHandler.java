@@ -1,10 +1,10 @@
 package ru.chubanova.ioc;
 
 
-import com.chubanova.command.Command;
-import com.chubanova.ioc.command.ChangeScopeCommand;
-import com.chubanova.ioc.command.CreateScopeCommand;
-import com.chubanova.ioc.command.RegisterCommand;
+import ru.chubanova.command.Command;
+import ru.chubanova.ioc.command.ChangeScopeCommand;
+import ru.chubanova.ioc.command.CreateScopeCommand;
+import ru.chubanova.ioc.command.RegisterCommand;
 
 public class InitializerCommandHandler implements Initializer<IoCDictionary<Command>> {
     @Override

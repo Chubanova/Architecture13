@@ -1,8 +1,8 @@
 package ru.chubanova.command;
 
-import com.chubanova.Game;
-import com.chubanova.UObject;
-import com.chubanova.ioc.IoC;
+import ru.chubanova.Game;
+import ru.chubanova.UObject;
+import ru.chubanova.ioc.IoC;
 import lombok.RequiredArgsConstructor;
 
 import java.util.Queue;

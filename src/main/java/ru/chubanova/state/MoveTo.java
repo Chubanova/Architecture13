@@ -1,8 +1,8 @@
 package ru.chubanova.state;
 
 
-import com.chubanova.command.Command;
-import com.chubanova.ioc.IoC;
+import ru.chubanova.command.Command;
+import ru.chubanova.ioc.IoC;
 
 import java.util.Queue;
 

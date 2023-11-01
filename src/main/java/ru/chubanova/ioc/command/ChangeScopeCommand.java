@@ -1,6 +1,6 @@
 package ru.chubanova.ioc.command;
 
-import com.chubanova.command.Command;
+import ru.chubanova.command.Command;
 import ru.chubanova.ioc.ScopeDictionary;
 import ru.chubanova.ioc.ScopeDictionaryImpl;
 import lombok.RequiredArgsConstructor;

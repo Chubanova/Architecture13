@@ -1,9 +1,9 @@
 package ru.chubanova.ioc;
 
-import com.chubanova.command.*;
-import com.chubanova.state.MoveTo;
-import com.chubanova.state.Normal;
-import com.chubanova.state.State;
+import ru.chubanova.command.*;
+import ru.chubanova.state.MoveTo;
+import ru.chubanova.state.Normal;
+import ru.chubanova.state.State;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 
